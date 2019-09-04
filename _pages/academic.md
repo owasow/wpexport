@@ -57,7 +57,7 @@ post_date: 2010-10-24 13:30:43
 </ul>
 <strong>Book Project</strong>:
 <ul>
- 	<li><em>Good Trouble: How Protests Influence Media and Politics</em>.</li>
+ 	<li><em>Good Trouble: How 1960s Black Protests Influenced Media and Politics</em> (Manuscript conference on 10/14, submission planned for January, 2020).</li>
 </ul>
 <strong>Working Papers</strong>:
 <ul>
