@@ -54,6 +54,18 @@ post_date: 2010-10-24 13:30:43
 </li>
 </ul>
 </li>
+ 	<li><strong>GOV30: American Government (while grad student at Harvard)</strong>
+<ul>
+ 	<li>Description: Intro to American Government</li>
+ 	<li>Evaluations:
+<ul>
+ 	<li>Awarded Certificate of Distinction in Teaching</li>
+ 	<li>Overall rating 4.5 out of 5</li>
+ 	<li><a href="http://omarwasow.com/Gov30evals.pdf">Full course evaluation</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <strong>Book Project</strong>:
 <ul>
