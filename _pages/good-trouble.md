@@ -13,9 +13,9 @@ post_date: 2019-09-19 03:30:45
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Chapters 1-4: <a href="http://omarwasow.com/protests_book_1-4.pdf">http://omarwasow.com/protests_book_1-4.pdf</a></p>
+<p>Chapters 1-8: <a href="http://omarwasow.com/protests_book.pdf">http://omarwasow.com/protests_book.pdf</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Chapters 5-9: Forthcoming</p>
+<p></p>
 <!-- /wp:paragraph -->
