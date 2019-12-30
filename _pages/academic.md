@@ -10,12 +10,12 @@ post_date: 2010-10-24 13:30:43
 ---
 <strong>Curriculum Vitae</strong>
 <ul>
- 	<li>My current <a href="http://www.omarwasow.com/otw_currvita2019_09.pdf">c.v.</a></li>
+ 	<li>My current <a href="http://www.omarwasow.com/otw_currvita2019_10.pdf">c.v.</a></li>
 </ul>
 <strong>Papers</strong>:
 <ul>
- 	<li><a href="http://omarwasow.com/APSR_protests2_7.pdf">“Agenda Seeding: How subordinate group protests influence media and politics,”</a> forthcoming in <em>American Political Science Review</em>.</li>
- 	<li><a href="https://www.annualreviews.org/doi/full/10.1146/annurev-polisci-032015-010015">“Race as a ‘Bundle of Sticks’: Designs that Estimate Effects of Seemingly Immutable Characteristics,”</a> <em>Annual Review of Political Science</em>, Vol. 19:499-522 (Volume publication date May 2016).</li>
+ 	<li><a href="http://omarwasow.com/APSR_protests2_9.pdf">“Agenda Seeding: How subordinate group protests influence media and politics,”</a> forthcoming in <em>American Political Science Review</em>.</li>
+ 	<li><a href="http://www.omarwasow.com/wasow_sen_2016_annurev.pdf">“Race as a ‘Bundle of Sticks’: Designs that Estimate Effects of Seemingly Immutable Characteristics,”</a> <em>Annual Review of Political Science</em>, Vol. 19:499-522 (Volume publication date May 2016).</li>
 </ul>
 <strong>Awards</strong>
 <ul>
