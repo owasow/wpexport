@@ -14,7 +14,7 @@ post_date: 2010-10-24 13:30:43
 </ul>
 <strong>Papers</strong>:
 <ul>
- 	<li><a href="http://omarwasow.com/APSR_protests3_0.pdf">“Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting,”</a> forthcoming in <em>American Political Science Review</em>. Online <a href="http://APSR_protests_appendix_3_0.pdf">Appendix</a>.</li>
+ 	<li><a href="http://omarwasow.com/APSR_protests3_0.pdf" data-wplink-edit="true">“Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting,”</a> forthcoming in <em>American Political Science Review</em>. Online <a href="http://www.omarwasow.com/APSR_protests_appendix_3_0.pdf">Appendix</a>.</li>
  	<li><a href="http://www.omarwasow.com/wasow_sen_2016_annurev.pdf">“Race as a ‘Bundle of Sticks’: Designs that Estimate Effects of Seemingly Immutable Characteristics,”</a> <em>Annual Review of Political Science</em>, Vol. 19:499-522 (Volume publication date May 2016).</li>
 </ul>
 <strong>Awards</strong>
