@@ -49,14 +49,14 @@ post_date: 2010-10-24 13:30:43
 <ul>
  	<li>100% would recommend course to other students (77% “strongly recommend” and 23% “recommend”)</li>
  	<li>Overall rating: 4.8 out of 5</li>
- 	<li><a href="http://www.omarwasow.com/course_evaluations_POL346_2020.pdf">Full course evaluation</a></li>
+ 	<li><a href="http://www.omarwasow.com/course_evaluations_POL346_2020.pdf">Full course evaluation</a> for 2020</li>
 </ul>
 </li>
  	<li>Evaluations in 2019:
 <ul>
  	<li>95% would recommend course to other students (81% “strongly recommend” and 14% “recommend”)</li>
  	<li>Overall rating: 4.7 out of 5</li>
- 	<li><a href="http://www.omarwasow.com/course_evaluations_POL346_2019.pdf">Full course evaluation</a></li>
+ 	<li><a href="http://www.omarwasow.com/course_evaluations_POL346_2019.pdf">Full course evaluation</a> for 2019</li>
 </ul>
 </li>
 </ul>
@@ -76,7 +76,7 @@ post_date: 2010-10-24 13:30:43
 </ul>
 <strong>Book Project</strong>:
 <ul>
- 	<li><em>Good Trouble: How 1960s Black Protests Influenced Media and Politics</em> (Manuscript conference on 10/14, submission planned for January, 2020).</li>
+ 	<li><em>The Protester’s Dilemma: How 1960s Black Protests Influenced Media and Politics</em> (Manuscript conference on 10/14, submission planned for January, 2020).</li>
 </ul>
 <strong>Working Papers</strong>:
 <ul>
