@@ -81,9 +81,9 @@ post_date: 2010-10-24 13:30:43
 <strong>Working Papers</strong>:
 <ul>
  	<li>“Conditional ethnocentrism: Experimental evidence from protests in the United States.”</li>
- 	<li>“Rousing the Sleeping Giant: How Anti-Immigrant Policies and Rhetoric Angers and Mobilizes Latinos,” with Nicholas Valentino, Ali Valenzuela and Matt Baretto. (Presented at APSA 2019)</li>
+ 	<li>“How Anti-Immigrant Policies and Rhetoric Angers and Mobilizes Latinos,” with Nicholas Valentino, Ali Valenzuela and Matt Barreto. (Presented at APSA 2019)</li>
  	<li>“Affluent politics and the rise of Trump,” with Tali Mendelberg and Sean Kates.</li>
- 	<li>“The Boundaries of Black Voting,” with Jamal R Johnson and Brandon McGhee.</li>
+ 	<li>“The Boundaries of Black Voting,” with Brandon McGhee.</li>
  	<li>“Election Effects, Perceptions of Immigration Context and Self-Reported General and Mental Health among Latinos and Whites in the United States,” with Ali Valenzuela and Krista Perriera.</li>
 </ul>
 <strong>Google Scholar</strong>
