@@ -45,7 +45,14 @@ post_date: 2010-10-24 13:30:43
 <ul>
  	<li>Description: Second semester undergrad stats</li>
  	<li><a href="http://pol346.com">Syllabus, slides and handouts</a></li>
- 	<li>Evaluations:
+ 	<li>Evaluations in 2020:
+<ul>
+ 	<li>100% would recommend course to other students (77% “strongly recommend” and 23% “recommend”)</li>
+ 	<li>Overall rating: 4.8 out of 5</li>
+ 	<li><a href="http://www.omarwasow.com/course_evaluations_POL346_2020.pdf">Full course evaluation</a></li>
+</ul>
+</li>
+ 	<li>Evaluations in 2019:
 <ul>
  	<li>95% would recommend course to other students (81% “strongly recommend” and 14% “recommend”)</li>
  	<li>Overall rating: 4.7 out of 5</li>
