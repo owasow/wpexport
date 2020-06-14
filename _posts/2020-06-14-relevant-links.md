@@ -34,7 +34,7 @@ post_date: 2020-06-14 11:56:34
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>A radio discussion among three black scholars about protests then and now:</p>
+<p>A radio discussion among three Black scholars about protests then and now:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
