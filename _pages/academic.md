@@ -76,7 +76,7 @@ post_date: 2010-10-24 13:30:43
 </ul>
 <strong>Book Project</strong>:
 <ul>
- 	<li><em>The Protester’s Dilemma: How 1960s Black Protests Influenced Media and Politics</em> (Manuscript conference on 10/14, submission planned for January, 2021).</li>
+ 	<li><em>The Protester’s Dilemma: How 1960s Black Protests Influenced Media and Politics</em>.</li>
 </ul>
 <strong>Working Papers</strong>:
 <ul>
