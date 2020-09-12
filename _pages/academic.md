@@ -10,7 +10,7 @@ post_date: 2010-10-24 13:30:43
 ---
 <strong>Curriculum Vitae</strong>
 <ul>
- 	<li>My current <a href="http://www.omarwasow.com/otw_currvita2020_06.pdf">c.v.</a></li>
+ 	<li>My current <a href="http://www.omarwasow.com/otw_currvita2020_09.pdf">c.v.</a></li>
 </ul>
 <strong>Papers</strong>:
 <ul>
